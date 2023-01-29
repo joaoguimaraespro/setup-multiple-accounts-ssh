@@ -1,4 +1,4 @@
-# Setup multiple git accounts via ssh
+# Tutorial for setup multiple git accounts via ssh
 
 
 First step, you need to put the public ssh keys in the directory ~/ssh and rename them according to the accounts e.g. work-gitlab.pub 
