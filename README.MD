@@ -62,7 +62,7 @@ To clone a repository run the following command:
 git clone ${Host}:${Username}/${NameOfRepository}.git
 ```
 
-In my case I ran the following commands:
+In my case I run the following commands:
 
 ```bash
 ssh work-github
@@ -70,6 +70,11 @@ ssh work-github
 
 ```bash
 git clone work-github:${Username}/${NameOfRepository}.git
+```
+Run the following commands in your repository directory
+
+```bash
+git remote set-url origin workgithub:${Username}/${NameOfRepository}.git
 ```
 
 <br/>
