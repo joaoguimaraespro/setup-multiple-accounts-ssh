@@ -44,7 +44,11 @@ Finally, you need to run the following command in the cmd terminal
 
 ```
 git config --global core.sshCommand "C:\\\\Windows\\\\System32\\\\OpenSSH\\\\ssh.exe"
+
 ```
+or 
+
+"C:\\Windows\\SysNative\\OpenSSH\\ssh.exe"
 
 <br/>
 
